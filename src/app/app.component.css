@@ -1,0 +1,6 @@
+.app-wrapper {
+  background: linear-gradient(to bottom right, #67a4ff, #f39696);
+  min-height: 100vh;
+  padding: 30px;
+  font-family: 'Segoe UI', sans-serif;
+}

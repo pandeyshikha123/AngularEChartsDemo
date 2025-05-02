@@ -1,0 +1,14 @@
+:host {
+  display: block;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  max-width: 900px;
+  margin: auto;
+}
+.chart-box {
+  width: 100%;
+  height: 60vh; /* Responsive height based on viewport */
+  min-height: 400px;
+}
