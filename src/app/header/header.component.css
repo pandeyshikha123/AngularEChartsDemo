@@ -1,21 +1,23 @@
 .header-container {
   text-align: center;
   color: #003366;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
   .header-container h1 {
     margin: 0;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
   }
 
   .header-container h2 {
-    font-size: 24px;
+    font-size: 26px;
     color: #005580;
+    font-weight: bold;
   }
 
   .header-container p {
-    font-size: 14px;
+    font-size: 16px;
     color: #333;
+    font-weight: bold;
   }
